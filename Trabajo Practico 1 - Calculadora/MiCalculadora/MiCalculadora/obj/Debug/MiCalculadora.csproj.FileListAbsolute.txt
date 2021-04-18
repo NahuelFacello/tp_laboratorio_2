@@ -1,0 +1,14 @@
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.frmCalculadora.resources
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

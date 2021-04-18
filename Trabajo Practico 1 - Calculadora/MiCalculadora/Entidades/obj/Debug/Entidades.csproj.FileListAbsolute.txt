@@ -1,0 +1,7 @@
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\nahue\Documents\UTN\2021\Laboratorio y prog II\Trabajos practicos\tp_laboratorio_2\Trabajo Practico 1 - Calculadora\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
