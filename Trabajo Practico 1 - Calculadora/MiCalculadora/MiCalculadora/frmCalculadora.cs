@@ -92,7 +92,7 @@ namespace MiCalculadora
             {
                 Numero numero1 = new Numero(txbNumero1.Text);
                 Numero numero2 = new Numero(txbNumero2.Text);
-                this.lblResultado.Text = String.Format("{0:###,###,###,###.00}",Calculadora.Operar(numero1, numero2, cmbOperador.SelectedItem.ToString()));
+                this.lblResultado.Text = String.Format("{0:###.###.###.###,##}",Calculadora.Operar(numero1, numero2, cmbOperador.SelectedItem.ToString()));
             }
             else
             {
@@ -129,7 +129,7 @@ namespace MiCalculadora
         {
             string strResultado;
             double resultado;
-            if (!string.IsNullOrEmpty(lblResultado.Text) && !double.TryParse(lblResultado.Text, out resultado))
+            if (!string.IsNullOrEmpty(lblResultado.Text))
             {
                 strResultado = lblResultado.Text.ToString();
                 this.lblResultado.ResetText();
