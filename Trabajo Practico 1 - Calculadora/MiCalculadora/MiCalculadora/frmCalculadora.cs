@@ -54,7 +54,7 @@ namespace MiCalculadora
             else
             {
                 e.Handled = true;
-                MessageBox.Show("Solo puede ingresar numeros!", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Solo puede ingresar numeros y borrar con la opcion limpiar", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
         /// <summary>
@@ -92,7 +92,7 @@ namespace MiCalculadora
             {
                 Numero numero1 = new Numero(txbNumero1.Text);
                 Numero numero2 = new Numero(txbNumero2.Text);
-                this.lblResultado.Text = String.Format("{0:###.###.###.###,##}",Calculadora.Operar(numero1, numero2, cmbOperador.SelectedItem.ToString()));
+                this.lblResultado.Text = Calculadora.Operar(numero1, numero2, cmbOperador.SelectedItem.ToString()).ToString();
             }
             else
             {
@@ -113,7 +113,11 @@ namespace MiCalculadora
             this.cmbOperador.ResetText();
 
         }
-
+        /// <summary>
+        /// Convierte a binario y muestra por lblResultado
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
             double resultado;
@@ -124,11 +128,15 @@ namespace MiCalculadora
             }
 
         }
-
+        /// <summary>
+        /// Convierte de binario a decimal solo si el valor de resultado esta en decimal0,2
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
             string strResultado;
-            double resultado;
+   
             if (!string.IsNullOrEmpty(lblResultado.Text))
             {
                 strResultado = lblResultado.Text.ToString();
@@ -137,6 +145,17 @@ namespace MiCalculadora
 
                 
             }
+            
+        }
+        /// <summary>
+        /// Valida que solo se seleccionen items del comboBox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void cmbOperador_KeyPress(object sender, KeyPressEventArgs e)
+        {
+              MessageBox.Show("No puede escribir, seleccione items del combo box", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Information);
+              this.cmbOperador.ResetText();
             
         }
     }

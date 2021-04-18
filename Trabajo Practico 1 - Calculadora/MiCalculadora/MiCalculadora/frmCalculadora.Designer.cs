@@ -82,6 +82,7 @@
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.Size = new System.Drawing.Size(67, 26);
             this.cmbOperador.TabIndex = 2;
+            this.cmbOperador.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cmbOperador_KeyPress);
             // 
             // btnOperar
             // 
